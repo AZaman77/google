@@ -2,12 +2,17 @@ body {
  font: Roboto;
 }
 
+.googlesearch{
+  padding-left: 100px;
+}
+
 .google {
   padding-left: 624px;
   padding-top: 156px;
 }
 
+
 .textsearch {
-  padding-left: 665px;
+  padding-left: 590px;
   padding-bottom: 255px;
 }
